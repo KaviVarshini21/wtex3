@@ -1,0 +1,13 @@
+.body{
+    height: 100%;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    
+}
+.h1{
+     font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+.img{
+    float:right;
+}
